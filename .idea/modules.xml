@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/local-properties-loader/local-properties-loader.iml" filepath="$PROJECT_DIR$/local-properties-loader/local-properties-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-cacl-client/web-cacl-client.iml" filepath="$PROJECT_DIR$/web-cacl-client/web-cacl-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-cacl-server/web-cacl-server.iml" filepath="$PROJECT_DIR$/web-cacl-server/web-cacl-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-calc.iml" filepath="$PROJECT_DIR$/web-calc.iml" />
+    </modules>
+  </component>
+</project>
